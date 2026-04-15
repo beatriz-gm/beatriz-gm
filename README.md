@@ -4,13 +4,13 @@
 
 <div align="center">
   <a href="https://github.com/beatriz-gm">
-    <img   width="49%"  height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizgm&show_icons=true&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff&icon_color=b32e74">
-    <img   width="41%"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizgm&layout=compact&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff">
+    <img   width="49%"  height="195px" src="https://github-readme-stats.vercel.app/api?username=beatriz-gm&show_icons=true&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff&icon_color=b32e74">
+    <img   width="41%"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-gm&layout=compact&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff">
   <a/>
 </div>
 
 <h2 align="center">Experience:</h2>
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
