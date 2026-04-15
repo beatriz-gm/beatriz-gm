@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b32e74&height=90&section=header"/>
 
-<h1 align="center">Hey!! I'm Beatriz Galvão 👋😊 </h1>
+<h1 align="center">Hey!! I'm Beatriz Medina 👋😊 </h1>
 
 <div align="center">
   <a href="https://github.com/beatriz-gm">
