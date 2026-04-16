@@ -24,10 +24,7 @@
       <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></td>
       <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
       <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"></td>
-      
-    </tr>
   </table>
-  
 </div>
 
 
