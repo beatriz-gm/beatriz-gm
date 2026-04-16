@@ -12,8 +12,7 @@
 </div>
 
 <h2 align="center">Experience:</h2>
-<table align="center">
-  <tr>
+<div>
     <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
     <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
     <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
@@ -23,7 +22,9 @@
     <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></td>
     <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
     <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"></td>
-  </tr>
+  
+</div>
+
 
 <h2 align="center">Where you can find me:</h2>
 
